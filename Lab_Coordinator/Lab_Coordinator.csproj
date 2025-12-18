@@ -113,6 +113,22 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ChatGPT-Image-Nov-22_-2025_-11_31_15-PM.ico" />
+    <None Include="Resources\register.png" />
+    <None Include="Resources\loging.png" />
+    <None Include="Resources\submit.png" />
+    <None Include="Resources\upload.png" />
+    <None Include="Resources\home1.png" />
+    <None Include="Resources\back.png" />
+    <None Include="Resources\signup1.png" />
+    <None Include="Resources\signup.png" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\download2.png" />
+    <None Include="Resources\ee2.png" />
+    <None Include="Resources\download1.png" />
+    <None Include="Resources\ee1.png" />
+    <None Include="Resources\ee.png" />
+    <None Include="Resources\pngtree-blue-download-button-hd-vector-png-image_6585956.png" />
+    <None Include="Resources\download.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
